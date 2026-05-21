@@ -6,3 +6,6 @@ def sub(c,d):
     sub = c-d
     return sub 
     
+def cube(d,e):
+    cube = d**e
+    return cube
