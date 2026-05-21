@@ -1,4 +1,8 @@
 def sample(a,b):
     sum = a+b
-    retun sum
+    return sum
+
+def sub(c,d):
+    sub = c-d
+    return sub 
     
